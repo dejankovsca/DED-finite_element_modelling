@@ -1,6 +1,6 @@
 # SUPPLEMENTARY MATERIAL INFO
 As supplementary material, to our article **“Towards an automated framework for the finite element computational modelling of directed energy deposition”** published in **Finite Elements in Analysis and Design**, we provide the in-house developed Fortran/Python code and all resulting Abaqus files used in the numerical case study.
-.
+
 ***
 > Please cite this work:<br>
 > D. Kovšca, B. Starman, D. Klobčar, M. Halilovič, N. Mole, "Towards an automated framework for the finite element computational modelling of directed energy deposition," Finite Elem. Anal. Des. 221 (2023), 103949. https://doi.org/10.1016/j.finel.2023.103949.
